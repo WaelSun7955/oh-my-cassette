@@ -8,3 +8,4 @@ build/
 .env
 tmp/
 *.tmp
+coverage/
